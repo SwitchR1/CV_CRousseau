@@ -1,18 +1,23 @@
-ROUSSEAU Christophe                                                     
-mail: xxxxx@xxxx.fr                                  ![Photo de CV](photo.jpg "photo c.Rousseau").    
+![Photo de CV](/photo.png "photo c.Rousseau")   
+
+
+ROUSSEAU Christophe                                                 
+mail: xxxxx@xxxx.fr                                 
 tél: 06 xx xx xx xx
-21000 Dijon
+21000 Dijon  
 
 ## Présentation
 Artisan polyvalent avec une expertise en menuiserie, bijouterie et métallurgie, je combine des compétences techniques pointues avec une approche créative. 
 Actuellement en reconversion professionnelle dans le domaine du Technicien Supérieur Systèmes et Réseaux (TSSR), je cherche à appliquer mes talents d'adaptation et d'apprentissage au secteur de l'informatique qui reste en pleine expansion. 
-Je souhaite m'appuyer sur mon parcours varié pour me permettre d'aborder des projets complexes avec efficacité et innovation.
+Je souhaite m'appuyer sur mon parcours varié pour me permettre d'aborder des projets complexes avec efficacité et innovation."
 
-## Formation 
+## Formation
+```
  - 2013 : Diplôme de niveau IV (équivalent BMA), [**École Tané**](https://www.ecoletane-bijorf.com/) 
  - 2013 : CAP Art du bijou et du joyau
  - 2009 : CAP Menuiserie [**LMB de Felletin**](https://lmb-felletin.fr/) 
  - 2003 : Baccalauréat STL (Sciences et Technologies de Laboratoire)
+```
 
 ## Expériences Professionnelles
 Juin 2017 - Octobre 2024 : Menuisier, ONF (*Office National des Forêts*)
